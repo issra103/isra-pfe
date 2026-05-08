@@ -1,0 +1,41 @@
+[API] Serveur sur http://localhost:4000
+[DB] MongoDB connecte
+[IoT] Climatisation | 70110.6 W total
+[IoT] Serveur | 69640.7 W total
+[IoT] Éclairage | 68868.6 W total
+[IoT] Climatisation | 67316.5 W total
+[IoT] Serveur | 61748.3 W total
+[IoT] Éclairage | 63445.5 W total
+[IoT] Climatisation | 58846.6 W total
+[IoT] Serveur | 60055.5 W total
+[IoT] Éclairage | 58230.3 W total
+[IoT] Climatisation | 677169.4 W total
+[ANOMALIE] Climatisation | 677169.4 W
+[IoT] Serveur | 54470.5 W total
+[Socket] Client connecte : 9Xwmsla-2sQUzBB5AAAC
+[IoT] Éclairage | 55095.7 W total
+[IoT] Climatisation | 55959.4 W total
+[Socket] Deconnecte : 9Xwmsla-2sQUzBB5AAAC
+[Socket] Client connecte : N9UshDQYgEGq_GhaAAAF
+[IoT] Serveur | 54414.7 W total
+[IoT] Éclairage | 49041.1 W total
+[IoT] Climatisation | 51411.4 W total
+[IoT] Serveur | 52452.5 W total
+[IoT] Éclairage | 49327.1 W total
+[Socket] Deconnecte : N9UshDQYgEGq_GhaAAAF
+[Socket] Client connecte : xiA43p-PODIeK27iAAAI
+[Socket] Deconnecte : xiA43p-PODIeK27iAAAI
+[Socket] Client connecte : TfDR7y1E1wfzAWvgAAAL
+[Socket] Deconnecte : TfDR7y1E1wfzAWvgAAAL
+[IoT] Climatisation | 47331.9 W total
+[Socket] Client connecte : x9W_CJMDG2IlGdv5AAAO
+[IoT] Serveur | 47875.8 W total
+[IoT] Éclairage | 48519.4 W total
+[Socket] Deconnecte : x9W_CJMDG2IlGdv5AAAO
+[Socket] Client connecte : 4A65fRXCAnntWfZLAAAR
+[IoT] Climatisation | 50470.8 W total
+[Socket] Deconnecte : 4A65fRXCAnntWfZLAAAR
+[IoT] Serveur | 47474.1 W total
+[IoT] Éclairage | 49608.5 W total
+[IoT] Climatisation | 48644.8 W total
+[IoT] Serveur | 49843.1 W total
